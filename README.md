@@ -14,5 +14,5 @@ A simple Python-based port scanner that helps identify open ports on one or mult
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-port-scanner.git
+   git clone https://github.com/Masterathwal/port-scanner
    cd python-port-scanner
